@@ -85,6 +85,11 @@ li {
   min-width: 120px;
 }
 /*=============footer=========*/
+hr {
+  width: 90%;
+  height: 1px;
+  background-color:rgb(231, 229, 229, 0.3);
+}
 
 footer {
   display: flex;
